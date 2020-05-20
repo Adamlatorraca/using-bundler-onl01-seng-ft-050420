@@ -5,5 +5,5 @@ gem "sinatra"
 
 group :development do
 gem "pry"
-gem "awesomeprint", git: "https://github.com/awesome-print/awesome_print"
+gem "awesome_print", git: "https://github.com/awesome-print/awesome_print"
 end
